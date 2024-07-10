@@ -1,3 +1,3 @@
-# Tutorial project from FreeCodeCamp Frontend Development Course - Create a Blog with HTML & CSS
+# Newsflash Blog site with HTML/CSS and JavaScript.
 
-- [Frontend Development Course - Create a Blog with HTML & CSS](https://youtu.be/Aj7HLsJenVg?si=HU00wjSkK_-bPyZm)
+
